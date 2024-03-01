@@ -1,0 +1,5 @@
+user_name = input('First Name: ')
+user_name2 = input('Last Name: ')
+user_name3 = input('Phone Number: ')
+print('Your registered name is, ' + user_name + ' ' + user_name2)
+print('Your phone number is ' + str(user_name3))
