@@ -24,4 +24,4 @@ while(not userInput):
         break
     else:
         userInput = None
-        continue
+        continuec
