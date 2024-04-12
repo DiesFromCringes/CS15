@@ -20,8 +20,8 @@ a = 10
 b = 100
 c = 20
     # math func ww
-    f = b/c
-    print(round(a))
+f = b/c
+print(round(a))
     print(math.ceil(a)) # round up
     print(math.floor(a)) # round down
     print(abs(-a))
