@@ -12,5 +12,4 @@ arr2.insert(10, 0,)
 arr2.pop(0)
 arr2.insert(11, 1,)
 arr2.pop(0)
-   
 print(f'Shift by 2: {arr2}')

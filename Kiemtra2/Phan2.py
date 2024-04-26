@@ -9,7 +9,6 @@ print(str(color))
 # for i in range (len((color))) :
 #     pencolor(color[i])
 #     forward(50)
-#     up()
-#     setposition(100*i, 0)
-#     down()
+#     up()                     
+
 # mainloop()
